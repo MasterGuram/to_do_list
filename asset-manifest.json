@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MasterGuram/to_do_list.git/static/css/main.fa053009.css",
+    "main.js": "/MasterGuram/to_do_list.git/static/js/main.0f81eb20.js",
+    "index.html": "/MasterGuram/to_do_list.git/index.html",
+    "main.fa053009.css.map": "/MasterGuram/to_do_list.git/static/css/main.fa053009.css.map",
+    "main.0f81eb20.js.map": "/MasterGuram/to_do_list.git/static/js/main.0f81eb20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa053009.css",
+    "static/js/main.0f81eb20.js"
+  ]
+}
